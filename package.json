@@ -1,0 +1,10 @@
+{
+  "name": "hexo",
+  "version": "2.4.5",
+  "private": true,
+  "dependencies": {
+    "hexo-generator-feed": "~0.1.0",
+    "hexo-tag-gdriveimage": "~1.0.2",
+    "hexo-tag-vimhighlight": "~0.1.5"
+  }
+}
